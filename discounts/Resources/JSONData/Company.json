@@ -1,0 +1,138 @@
+{
+    "companys":[ {
+                    "companyId": 0,
+                    "categoryId": 0,
+                    "companyName": "Эльдорадо",
+                    "discount": "-15%",
+                    "imageName": "eldorado",
+                    "discountCode": "01112222225"
+                },
+                 {
+                    "companyId": 1,
+                    "categoryId": 0,
+                    "companyName": "Велика кишеня",
+                    "discount": "Bonus",
+                    "imageName": "big_kishenya",
+                    "discountCode": "01113222226"
+                },
+                {
+                    "companyId": 2,
+                    "categoryId": 0,
+                    "companyName": "Metro",
+                    "discount": "-5%",
+                    "imageName": "metro",
+                    "discountCode": "01112022226"
+                },
+                {
+                    "companyId": 3,
+                    "categoryId": 0,
+                    "companyName": "Praktiker",
+                    "discount": "-15%",
+                    "imageName": "praktiker",
+                    "discountCode": "01112272226"
+                },
+                {
+                    "companyId": 4,
+                    "categoryId": 0,
+                    "companyName": "Эпицентр",
+                    "discount": "-55%",
+                    "imageName": "epitsentr",
+                    "discountCode": "011122244426"
+                },
+                {
+                    "companyId": 5,
+                    "categoryId": 1,
+                    "companyName": "Велика кишеня",
+                    "discount": "Bonus",
+                    "imageName": "big_kishenya",
+                    "discountCode": "0111222343226"
+                },
+                {
+                    "companyId": 6,
+                    "categoryId": 1,
+                    "companyName": "Здравница",
+                    "discount": "-5%",
+                    "imageName": "zdravnitsa",
+                    "discountCode": "01112222227567"
+                },
+                {
+                    "companyId": 7,
+                    "categoryId": 1,
+                    "companyName": "Аптека 63",
+                    "discount": "-10%",
+                    "imageName": "apteka_63",
+                    "discountCode": "01112222225877"
+                },
+                {
+                    "companyId": 8,
+                    "categoryId": 1,
+                    "companyName": "Лекрус",
+                    "discount": "-11%",
+                    "imageName": "lekrus",
+                    "discountCode": "01112222225346"
+                },
+                {
+                    "companyId": 9,
+                    "categoryId": 1,
+                    "companyName": "Сімейна аптека",
+                    "discount": "-12%",
+                    "imageName": "simeyna",
+                    "discountCode": "01112222226"
+                },
+                {
+                    "companyId": 10,
+                    "categoryId": 2,
+                    "companyName": "КЮЗ",
+                    "discount": "-10%",
+                    "imageName": "kuz",
+                    "discountCode": "01112222227"
+                },
+                {
+                    "companyId": 11,
+                    "categoryId": 2,
+                    "companyName": "Адамас",
+                    "discount": "-10%",
+                    "imageName": "adamas",
+                    "discountCode": "01112222227"
+                },
+                {
+                    "companyId": 12,
+                    "categoryId": 2,
+                    "companyName": "Dіамант 13",
+                    "discount": "-10%",
+                    "imageName": "diamant",
+                    "discountCode": "01112222227"
+                },
+                {
+                    "companyId": 13,
+                    "categoryId": 2,
+                    "companyName": "City Gold",
+                    "discount": "-10%",
+                    "imageName": "city_gold",
+                    "discountCode": "01112222227"
+                },
+                {
+                    "companyId": 14,
+                    "categoryId": 3,
+                    "companyName": "Cristian Dior",
+                    "discount": "-20%",
+                    "imageName": "dior",
+                    "discountCode": "01112222227"
+                },
+                {
+                    "companyId": 15,
+                    "categoryId": 3,
+                    "companyName": "Pierre Carden",
+                    "discount": "-2%",
+                    "imageName": "carden",
+                    "discountCode": "01112222227"
+                },
+                {
+                    "companyId": 16,
+                    "categoryId": 3,
+                    "companyName": "Gloria Jeans",
+                    "discount": "-20%",
+                    "imageName": "gloria",
+                    "discountCode": "01112222227"
+                }]
+}

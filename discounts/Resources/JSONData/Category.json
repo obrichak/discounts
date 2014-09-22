@@ -1,0 +1,29 @@
+{
+    "category": [
+                  {
+                      "categoryId": 0,
+                      "categoryName": "Супермаркеты",
+                      "categoryImageName": "shop",
+                  },
+                 {
+                     "categoryId": 1,
+                     "categoryName": "Аптеки",
+                     "categoryImageName": "medical",
+                 },
+                 {
+                     "categoryId": 2,
+                     "categoryName": "Украшения",
+                     "categoryImageName": "gold",
+                 },
+                 {
+                     "categoryId": 3,
+                     "categoryName": "Одежда",
+                     "categoryImageName": "clothes",
+                 },
+                 {
+                     "categoryId": 4,
+                     "categoryName": "Еда",
+                     "categoryImageName": "food",
+                 }
+    ]
+}
